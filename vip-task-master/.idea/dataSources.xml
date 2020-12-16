@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="flexboxgrid-template" uuid="0469b9b6-82c6-45a7-aa4f-e233e98a6b32">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Admin\Documents\Coding\VIPZadatak\vip-task-master\vip-task-master\css\flexboxgrid-6.3.1\design\flexboxgrid-template.sketch</jdbc-url>
+    </data-source>
+  </component>
+</project>
